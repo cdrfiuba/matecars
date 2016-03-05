@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Zigbit)(type Legacy)(uri "/home/gise/Documentos/Club de Robotica/mate-car/placa/lib/zigbit_dual.mod")(options "")(descr ""))
+  (lib (name Mbed)(type Legacy)(uri "/home/gise/Documentos/Club de Robotica/mate-car/placa/lib/mbed.mod")(options "")(descr ""))
+  (lib (name HT7550)(type Legacy)(uri "/home/gise/Documentos/Club de Robotica/mate-car/placa/lib/REG104-25.mod")(options "")(descr ""))
+  (lib (name Molex)(type Legacy)(uri "/home/gise/Documentos/Club de Robotica/mate-car/placa/lib/molex_2_recto.mod")(options "")(descr ""))
+)

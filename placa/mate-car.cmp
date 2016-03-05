@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CvPCB (2010-05-05 BZR 2356)-stable date = Mon 17 Jan 2011 06:51:06 PM ART
+
+BeginCmp
+TimeStamp = /4D2F687D;
+Reference = P1;
+ValeurCmp = DIL16;
+IdModule  = DIP-16__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D30C68D;
+Reference = U1;
+ValeurCmp = ZIGBIT_DUAL_DIP;
+IdModule  = ZIGBIT_DIP_40;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D2CDF3C;
+Reference = U2;
+ValeurCmp = MBED;
+IdModule  = MBED-DOBLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D30D36D;
+Reference = U3;
+ValeurCmp = MBED_Conector;
+IdModule  = MBED;
+EndCmp
+
+EndListe
